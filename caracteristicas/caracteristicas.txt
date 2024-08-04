@@ -1,0 +1,12 @@
+1. Colaboración en Tiempo Real
+Permite que múltiples usuarios trabajen en el mismo archivo simultáneamente, lo que facilita la comunicación y la toma de decisiones en equipo.
+2. Interfaz intuitiva
+Ofrece una interfaz fácil de usar, similar a otras herramientas de diseño, lo que permite a los nuevos usuarios adaptarse rápidamente.
+3. Prototipo interactivo
+Permite crear prototipos interactivos con transiciones y animaciones, lo que ayuda a visualizar cómo funcionará el producto final.
+4. Componentes Reutilizables
+Los diseñadores pueden crear componentes que se pueden reutilizar en diferentes partes del proyecto, lo que ahorra tiempo y garantiza la coherencia del diseño.
+5. Plugins e integraciones
+Figma cuenta con una amplia gama de complementos que extienden su funcionalidad, desde herramientas de accesibilidad hasta integraciones con otras plataformas como Slack, JIRA y más.
+6. Diseño responsivo
+Permite crear diseños que se adaptan a diferentes tamaños de pantalla, facilitando el trabajo en proyectos web y móviles.
